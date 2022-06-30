@@ -9,4 +9,4 @@ ruby magic_ball.rb
 
 Задавайте вопросы, на которые можно ответить только "Да" или "Нет"
 
-ПОдробнее о волшебном шаре: https://ru.wikipedia.org/wiki/Magic_8_ball
+Подробнее о волшебном шаре: https://ru.wikipedia.org/wiki/Magic_8_ball
